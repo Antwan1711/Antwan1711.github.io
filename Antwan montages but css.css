@@ -1,0 +1,179 @@
+html {
+	scroll-behavior: smooth;
+}
+body {
+	background-image: url(https://media.discordapp.net/attachments/753261530337771653/1087757326708129792/sean-raiko-tay-downlox.png?width=960&height=567), url(https://media.discordapp.net/attachments/753261530337771653/1087764788467224684/empyrean-pyke-splash-art-v0-gxzkhc4wclu91.png?width=960&height=569), url(https://media.discordapp.net/attachments/753261530337771653/1087759046909632523/AVvXsEhRmtQlZB5lNtn25uS4y_i7bVn2Th8aolD3aPtazVdeT3wMerzV44lCoDJZL6xsyOI8xgTEMd80qnAHNQ9Vq_CSog8eh9vsub9Z2wlpBTZcW4Vgf2CHheodU2cLK6uVKkrlYvIlS9WwflSrfMEjqwP9K1fv1S1dj_YdLbLQe-qyeMD-U3vvpBmv0lk-mws4096.png?width=960&height=540);
+  background-color:#161616;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: top, 0% 40%, 30% 92%;
+	background-size:1500px, 1500px 1500px, 1500px 1300px;
+}
+
+h1 {
+	font-size:100px;
+	  font-family: 'Montserrat', sans-serif; 
+	color:red;
+	text-shadow: 5px 5px 10px #000000;
+	font-style: italic;
+	text-align:center;
+}
+
+.main {
+	text-align:center;
+	height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size:40px;
+ color:white;
+  text-shadow: 2px 2px 4px #000000;
+  -webkit-font-smoothing: antialiased;
+  margin-left:50px;
+  margin-right:50px;
+	
+}
+h2 {
+	font-size:50px;
+	  font-family: 'Bebas Neue', sans-serif; 
+}
+h3 {
+	font-size:50px;
+	  font-family: 'Bebas Neue', sans-serif; 
+}
+h4 {
+	font-size:50px;
+	  font-family: 'Bebas Neue', sans-serif; 
+	  
+}
+h5 {
+	font-size:50px;
+	  font-family: 'Bebas Neue', sans-serif; 
+	  	text-align:center;
+	height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size:40px;
+ color:white;
+  text-shadow: 2px 2px 4px #000000;
+  -webkit-font-smoothing: antialiased;
+  margin-left:50px;
+  margin-right:50px;
+}
+li {
+	list-style-type: none;
+	display: inline;
+	padding: 30px 30px;
+	text-align:center;
+	height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size:40px;
+ color:white;
+  text-shadow: 2px 2px 4px #000000;
+  -webkit-font-smoothing: antialiased;
+  margin-left:50px;
+  margin-right:50px;
+	
+}
+nav ul {
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+#nav_bar {
+    width: 100%;
+    max-width: 1024px;
+    margin:auto;
+}
+.nav-link {
+color: white !important;
+text-decoration:none;
+}
+
+.fa-discord{
+	text-decoration:none;
+	color: #6A5ACD;
+}
+.fa-youtube{
+	text-decoration:none;
+	color: #FF0000;
+}
+.fa-twitter{
+	text-decoration:none;
+	color: #1DA1F2;
+}
+	.socials{
+		height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  font-size:40px;
+ color:white;
+  text-shadow: 2px 2px 4px #000000;
+  -webkit-font-smoothing: antialiased;
+	}
+	/*video {
+		border-style: solid;
+  border-width: 5px;
+  padding: 0px;
+	} */
+	.video {
+		border-style: solid;
+  border-width: 5px;
+	}
+	.revealUp {
+  opacity: 0;
+  visibility: hidden;
+}
+.spacer {
+  height: 50vh;
+  background-color: #000;
+}
+	
+	header img {
+		object-fit: none;
+		object-position: top left;
+	}
+	form {
+            background-color: #fff;
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 30px 20px;
+            box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+			opacity: 0.8;
+			font-family: 'Bebas Neue', sans-serif;
+			border-style: solid;
+  border-width: 5px;
+			
+        }
+        .form-control {
+            text-align: left;
+            margin-bottom: 25px;
+        }
+        .form-control label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        .form-control input,
+        .form-control select,
+        .form-control textarea {
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: inherit;
+            padding: 10px;
+            display: block;
+            width: 95%;
+        }
+        .form-control input[type="radio"],
+        .form-control input[type="checkbox"] {
+            display: inline-block;
+            width: auto;
+        }
+        button {
+            background-color: #a020f0;
+			background-image: url (https://media.discordapp.net/attachments/753261530337771653/1090255491063627777/IJGrV7FK0Ud31gIWHukBPrqlJZrwyEZZVtkICX_DGVd_6bHuY9TL4t9YV5sfWMXE9W3e4Mq0Vws176-c-k-c0x00ffffff-no-rj.png)
+            border: 1px solid #777;
+            border-radius: 2px;
+            font-family: inherit;
+            font-size: 21px;
+            display: block;
+            width: 100%;
+            margin-top: 50px;
+            margin-bottom: 20px;
+        }
+	
