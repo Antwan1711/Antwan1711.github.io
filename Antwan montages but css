@@ -1,0 +1,9 @@
+body{
+	text-align:center;
+	height: 100%;
+  background-image: url("premiere pro interface updated.png");
+  font-family:Bebas Neue;
+  font-size:40px;
+  color:#F2F3F5;
+  
+}
